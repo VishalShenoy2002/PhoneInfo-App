@@ -11,4 +11,8 @@ It provides information like:
 6. Validity
 
 # Images
+
+![Screenshot](https://user-images.githubusercontent.com/61897464/144749822-879f5e9c-536c-4979-8a78-759fc1cfe967.png)
+This is the picture of the Main Screen.
 ![Screenshot](https://user-images.githubusercontent.com/61897464/144710240-0fe0ce72-3195-4439-ad9a-13c53d471d49.png)
+This is the picture of the Information Screen.
